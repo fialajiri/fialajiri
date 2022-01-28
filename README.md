@@ -4,7 +4,7 @@ Hello, I'm Jiri from Czech republic, and I do web development. I really enjoy le
 
 ## Skills and Experience
 
-⚛️ React, Next.js
+⚛️ React, Next.js \
 💻 TS, JS, HTML, CSS, SCSS
 
 ## Current Project
