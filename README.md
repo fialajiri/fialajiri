@@ -1,6 +1,6 @@
 # Jiri Fiala
 
-Hello, I'm Jiri from Czech republic, and I do web development. I really enjoy learing languages and frameworks. I like working both on frontend and backend.
+Hello, I'm Jiri from Czech republic, and I do web development. I really love learing languages and frameworks. I enjoy working both on frontend and backend.
 
 ## Skills and Experience
 
