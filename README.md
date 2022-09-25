@@ -11,7 +11,7 @@ Hello, I'm Jiri from Czech republic, and I do web development. I really love lea
 
 ## Current Project
 
-I'm currently working on an [ecommerce site](https://eshop-frontend-ts.vercel.app/produkty)
+I'm currently employed as a software developer at [FoxCom](http://www.foxcom.eu/).
 
 ## Examples of Work
 
