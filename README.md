@@ -6,7 +6,7 @@ Hello, I'm Jiri from Czech republic, and I do web development. I really love lea
 
 ⚛️ React, Next.js \
 :desktop_computer: Vue 3, Nuxt \
-back 🔚: Node.js, express \
+🔙 🔚: Node.js, express \
 💻 Typescript, Javascript, HTML, CSS, SCSS 
 
 
